@@ -1,1 +1,1 @@
-# Water-Potability-regression-and-Classification-Python
+Water Potability Logistic Regression and Classification with decision tree, SVM, K-Nearest Neighborhood
